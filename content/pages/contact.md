@@ -9,7 +9,8 @@ Authors: cgeek
 
 ## Le forum
 
-Préférez ce moyen pour échanger à votre rythme, et partager avec tous. Le forum est accessible à l'adresse : [https://forum.duniter.org](https://forum.duniter.org)
+Préférez ce moyen pour échanger à votre rythme, et partager avec tous. Le forum plutôt technique/developpeurs logiciel est accessible à l'adresse : [https://forum.duniter.org](https://forum.duniter.org)
+Et le forum plutôt tous sujets/utilisateur est accessible ici >>> [https://forum.duniter.fr](https://forum.duniter.fr)
 
 Vous devrez inscrire si vous souhaitez participer aux échanges. Mais la lecture simple ne requiert aucune inscription.
 
